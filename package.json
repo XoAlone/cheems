@@ -1,0 +1,14 @@
+{
+  "name": "cheems",
+  "version": "1.0.4",
+  "description": "A package that let's you scrape Cheems memes from Reddit.",
+  "main": "cheems.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "keywords": [
+    "cheems"
+  ],
+  "author": "XoAlone#0001",
+  "license": "ISC"
+}
